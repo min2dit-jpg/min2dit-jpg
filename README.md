@@ -6,7 +6,7 @@
 
 **Retail · Gastro · Restaurant · Fiscal Workflows · Business Software**
 
-### Project Owner & Lead Developer: **Serwan Duman**
+### Project Owner & Lead Developer: **TOR POS**
 
 [🇩🇪 Deutsch](README.de.md) · [🇬🇧 English](README.en.md)
 
@@ -18,9 +18,9 @@
 
 TOR POS is a modern point-of-sale platform for retail, gastronomy and restaurants, developed with a strong focus on reliable real-world workflows, German fiscal requirements, hardware integration and controlled release quality.
 
-**TOR POS is an independently developed proprietary software project owned and led by Serwan Duman.**
+**TOR POS is an independently developed proprietary software project owned and led by TOR POS.**
 
-**Deutsch:** TOR POS ist eine moderne Kassensoftware für Einzelhandel, Gastronomie und Restaurants mit Fokus auf zuverlässige Betriebsabläufe, deutsche Fiskalanforderungen, Geräteintegration und kontrollierte Release-Qualität. **Projektinhaber und Lead Developer ist Serwan Duman.**
+**Deutsch:** TOR POS ist eine moderne Kassensoftware für Einzelhandel, Gastronomie und Restaurants mit Fokus auf zuverlässige Betriebsabläufe, deutsche Fiskalanforderungen, Geräteintegration und kontrollierte Release-Qualität. **Projektinhaber und Lead Developer ist TOR POS.**
 
 ### Choose your language
 
