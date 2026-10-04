@@ -4,7 +4,7 @@
 
 ## Projektinhaber & Lead Developer
 
-**Serwan Duman** ist Projektinhaber und Lead Developer von **TOR POS**. TOR POS wird als eigenständig entwickeltes proprietäres Softwareprojekt unter seiner Leitung entwickelt.
+**TOR POS** ist Projektinhaber und Lead Developer von **TOR POS**. TOR POS wird als eigenständig entwickeltes proprietäres Softwareprojekt unter seiner Leitung entwickelt.
 
 ## Moderne Kassensoftware für den realen Betrieb
 
