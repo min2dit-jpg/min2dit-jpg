@@ -2,31 +2,37 @@
 
 # TOR POS
 
-### Building reliable point-of-sale software for real businesses
+### One system. Real business.
 
-Retail · Gastronomy · Restaurants · Fiscal Systems · Business Software
+**Retail · Gastro · Restaurant · Fiscal Workflows · Business Software**
+
+[🇩🇪 Deutsch](README.de.md) · [🇬🇧 English](README.en.md)
 
 </div>
 
 ---
 
-## About
+## About TOR POS
 
-I build **TOR POS**, a modern point-of-sale ecosystem designed for retail, gastronomy and restaurant operations.
+TOR POS is a modern point-of-sale platform for retail, gastronomy and restaurants, developed with a strong focus on reliable real-world workflows, German fiscal requirements, hardware integration and controlled release quality.
 
-My focus is not only on adding features, but on building software that is **stable, auditable, maintainable and practical in real-world business environments**.
+**Deutsch:** TOR POS ist eine moderne Kassensoftware für Einzelhandel, Gastronomie und Restaurants mit Fokus auf zuverlässige Betriebsabläufe, deutsche Fiskalanforderungen, Geräteintegration und kontrollierte Release-Qualität.
 
-TOR POS is being developed for the German market with particular attention to fiscal workflows, hardware integration, operational safety and release qualification.
+### Choose your language
 
-## What I'm working on
+**[Deutsch – vollständige Projektbeschreibung →](README.de.md)**  
+**[English – full project overview →](README.en.md)**
 
-- **TOR Einzelhandel** — retail POS, barcode workflows, inventory, stocktaking, returns, reporting and checkout
-- **TOR Gastro** — fast-service workflows, menus, takeaway/in-house tax handling and kitchen routing
-- **TOR Restaurant** — table management, split payments, reservations, handheld workflows, KDS, QR self-ordering and kitchen coordination
-- **German fiscal integration** — TSE, KassenSichV, DSFinV-K 2.4, fiscal exports and audit-oriented workflows
-- **Payments & devices** — ZVT terminals, receipt printers, cash drawers, scanners and POS hardware
-- **Offline-first + Cloud** — reliable local operation with optional cloud services
-- **Release safety** — automated tests, validation gates, backup/restore, audit trails and production-readiness controls
+---
+
+## Product areas
+
+- **TOR Einzelhandel / Retail** — checkout, products, barcode workflows, inventory, stocktaking, returns and reporting
+- **TOR Gastro** — fast-service and take-away workflows, menus, kitchen routing and gastro-specific operations
+- **TOR Restaurant** — table management, split payments, reservations, handheld, KDS and QR self-ordering
+- **Fiscal workflows** — TSE, KassenSichV, DSFinV-K 2.4, exports, logging and release validation
+- **Hardware & payments** — printers, scanners, drawers, terminals, KDS and POS peripherals
+- **Offline-first + optional cloud services**
 
 ## Technology
 
@@ -37,24 +43,12 @@ TOR POS is being developed for the German market with particular attention to fi
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-**Core stack:** C# · .NET · Avalonia UI · SQLite · REST APIs · GitHub Actions
-
-## Engineering principles
-
-**Offline-first. Fail-closed where fiscal safety matters. Test before release. Keep business workflows understandable.**
-
-I prefer explicit validation, reproducible acceptance tests and traceable release decisions over hidden assumptions.
-
-## Current focus
-
-TOR POS is currently moving from intensive product development into **acceptance, external validation and production-readiness**.
-
-Current work includes real-device TSE validation, DSFinV-K verification, payment-terminal acceptance, signed releases and practical field testing.
+**C# · .NET · Avalonia UI · SQLite · REST APIs · GitHub Actions**
 
 ---
 
 <div align="center">
 
-**Building software for real-world operations — reliable, auditable and production-ready.**
+**Reliable · Auditable · Practical**
 
 </div>
